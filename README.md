@@ -148,5 +148,5 @@ Total Customers = DISTINCTCOUNT(Orders[CustomerID])
 **Shibila Sherin M**
 Data Science | Data Analysis | Power BI | Python |Statistics | Machine Learning | NLP | Deep Learning | SQL
 
-[![LinkedIn](www.linkedin.com/in/shibila-sherin-m-99881b3a1)](https://linkedin.com/in/shibilasherinn)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/shibilasherinn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shibila-sherin-m-99881b3a1)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/shibilasherinn/E-Commerce-Sales-Dashboard)
