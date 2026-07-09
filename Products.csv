@@ -1,0 +1,267 @@
+ProductID,ProductName,Category,SubCategory,Brand,CostPrice,SellingPrice
+P1000,Samsung Smartphones Tempore,Electronics,Smartphones,Samsung,40593.47,66950.0
+P1001,Sony Smartphones Culpa,Electronics,Smartphones,Sony,46918.06,66490.0
+P1002,Boat Smartphones Alias,Electronics,Smartphones,Boat,29799.37,53470.0
+P1003,Boat Smartphones Harum,Electronics,Smartphones,Boat,13524.5,20300.0
+P1004,Samsung Smartphones Exercitationem,Electronics,Smartphones,Samsung,36348.85,50860.0
+P1005,Canon Laptops Et,Electronics,Laptops,Canon,14025.97,20460.0
+P1006,Samsung Laptops Deserunt,Electronics,Laptops,Samsung,40184.57,68490.0
+P1007,Canon Laptops Corporis,Electronics,Laptops,Canon,18246.43,31150.0
+P1008,Noise Laptops Veritatis,Electronics,Laptops,Noise,6322.84,9920.0
+P1009,Noise Laptops Quisquam,Electronics,Laptops,Noise,52628.67,76400.0
+P1010,Samsung Laptops Commodi,Electronics,Laptops,Samsung,44365.88,65890.0
+P1011,Canon Laptops Rerum,Electronics,Laptops,Canon,4834.48,7830.0
+P1012,Noise Laptops Nisi,Electronics,Laptops,Noise,37240.29,52300.0
+P1013,Samsung Laptops Aliquid,Electronics,Laptops,Samsung,43508.23,59780.0
+P1014,OnePlus Headphones Aliquam,Electronics,Headphones,OnePlus,49776.83,78090.0
+P1015,Mi Headphones Consectetur,Electronics,Headphones,Mi,36449.91,57500.0
+P1016,Noise Headphones Esse,Electronics,Headphones,Noise,22877.52,32490.0
+P1017,Boat Headphones Eveniet,Electronics,Headphones,Boat,32491.52,55130.0
+P1018,OnePlus Headphones Quae,Electronics,Headphones,OnePlus,9801.29,15380.0
+P1019,OnePlus Smartwatches Sed,Electronics,Smartwatches,OnePlus,46022.37,61870.0
+P1020,Samsung Smartwatches Alias,Electronics,Smartwatches,Samsung,11833.24,21230.0
+P1021,Noise Smartwatches Ratione,Electronics,Smartwatches,Noise,20675.87,36580.0
+P1022,Noise Smartwatches Eius,Electronics,Smartwatches,Noise,13143.55,19770.0
+P1023,Mi Smartwatches Totam,Electronics,Smartwatches,Mi,7881.84,13540.0
+P1024,HP Smartwatches Voluptates,Electronics,Smartwatches,HP,43731.04,67430.0
+P1025,Canon Smartwatches Quisquam,Electronics,Smartwatches,Canon,25789.85,33090.0
+P1026,Sony Smartwatches Nihil,Electronics,Smartwatches,Sony,26404.55,46250.0
+P1027,Samsung Smartwatches Est,Electronics,Smartwatches,Samsung,45413.76,77610.0
+P1028,Canon Cameras Occaecati,Electronics,Cameras,Canon,34478.81,54000.0
+P1029,Mi Cameras Repudiandae,Electronics,Cameras,Mi,37120.71,48000.0
+P1030,Samsung Cameras Hic,Electronics,Cameras,Samsung,35433.81,61480.0
+P1031,HP Cameras Ab,Electronics,Cameras,HP,43574.75,69360.0
+P1032,HP Cameras Dolore,Electronics,Cameras,HP,25899.43,39580.0
+P1033,HP Cameras Voluptatem,Electronics,Cameras,HP,63452.24,87490.0
+P1034,Boat Accessories Nisi,Electronics,Accessories,Boat,48532.49,78450.0
+P1035,OnePlus Accessories Laboriosam,Electronics,Accessories,OnePlus,10467.2,14430.0
+P1036,Samsung Accessories Hic,Electronics,Accessories,Samsung,35920.83,54230.0
+P1037,Boat Accessories Dolor,Electronics,Accessories,Boat,62936.23,83680.0
+P1038,HP Accessories Esse,Electronics,Accessories,HP,13415.67,22160.0
+P1039,Boat Accessories Labore,Electronics,Accessories,Boat,5585.4,8440.0
+P1040,Boat Accessories Corporis,Electronics,Accessories,Boat,59208.87,88040.0
+P1041,Sony Accessories Consectetur,Electronics,Accessories,Sony,8076.61,12250.0
+P1042,Sony Accessories Modi,Electronics,Accessories,Sony,18346.12,24440.0
+P1043,Roadster Men's Clothing Consequatur,Fashion,Men's Clothing,Roadster,4045.54,5590.0
+P1044,Allen Solly Men's Clothing Magnam,Fashion,Men's Clothing,Allen Solly,901.46,1450.0
+P1045,Allen Solly Men's Clothing Laborum,Fashion,Men's Clothing,Allen Solly,2603.05,4000.0
+P1046,Fabindia Men's Clothing Sed,Fashion,Men's Clothing,Fabindia,1742.14,2870.0
+P1047,H&M Men's Clothing Fuga,Fashion,Men's Clothing,H&M,1528.24,2230.0
+P1048,Roadster Men's Clothing Aperiam,Fashion,Men's Clothing,Roadster,2013.54,3650.0
+P1049,Allen Solly Men's Clothing Officia,Fashion,Men's Clothing,Allen Solly,2350.36,3900.0
+P1050,H&M Men's Clothing Quidem,Fashion,Men's Clothing,H&M,2944.75,5200.0
+P1051,Puma Women's Clothing Cupiditate,Fashion,Women's Clothing,Puma,2463.02,4110.0
+P1052,Roadster Women's Clothing Minus,Fashion,Women's Clothing,Roadster,3328.03,4420.0
+P1053,Fabindia Women's Clothing Beatae,Fashion,Women's Clothing,Fabindia,2184.08,2990.0
+P1054,Levis Women's Clothing Quod,Fashion,Women's Clothing,Levis,789.77,1380.0
+P1055,Levis Women's Clothing Impedit,Fashion,Women's Clothing,Levis,1495.36,2320.0
+P1056,Allen Solly Women's Clothing Sunt,Fashion,Women's Clothing,Allen Solly,427.18,610.0
+P1057,H&M Footwear Sit,Fashion,Footwear,H&M,1626.62,2590.0
+P1058,H&M Footwear Magni,Fashion,Footwear,H&M,1021.25,1720.0
+P1059,Levis Footwear Repellat,Fashion,Footwear,Levis,651.42,1100.0
+P1060,Levis Footwear Earum,Fashion,Footwear,Levis,1311.24,1720.0
+P1061,Levis Footwear Voluptatibus,Fashion,Footwear,Levis,3667.14,4910.0
+P1062,H&M Watches Atque,Fashion,Watches,H&M,2710.83,4020.0
+P1063,H&M Watches Aperiam,Fashion,Watches,H&M,4441.03,5820.0
+P1064,Roadster Watches Ut,Fashion,Watches,Roadster,827.12,1250.0
+P1065,Roadster Watches Eum,Fashion,Watches,Roadster,3962.05,5230.0
+P1066,Roadster Watches Illum,Fashion,Watches,Roadster,1910.49,2460.0
+P1067,Levis Bags Beatae,Fashion,Bags,Levis,1370.72,1930.0
+P1068,Allen Solly Bags Eveniet,Fashion,Bags,Allen Solly,4046.63,5970.0
+P1069,Allen Solly Bags Consequuntur,Fashion,Bags,Allen Solly,1822.59,3070.0
+P1070,Roadster Bags Modi,Fashion,Bags,Roadster,3976.29,5820.0
+P1071,Fabindia Bags Hic,Fashion,Bags,Fabindia,404.38,650.0
+P1072,H&M Bags Odit,Fashion,Bags,H&M,2416.33,3630.0
+P1073,Fabindia Bags Tempora,Fashion,Bags,Fabindia,925.17,1200.0
+P1074,Milton Cookware Maiores,Home & Kitchen,Cookware,Milton,1074.7,1900.0
+P1075,Milton Cookware Dolorem,Home & Kitchen,Cookware,Milton,7826.65,10210.0
+P1076,Bajaj Cookware Maxime,Home & Kitchen,Cookware,Bajaj,4333.33,6310.0
+P1077,Bajaj Cookware Libero,Home & Kitchen,Cookware,Bajaj,1563.67,2230.0
+P1078,Bajaj Cookware Eos,Home & Kitchen,Cookware,Bajaj,10067.17,13160.0
+P1079,Nilkamal Furniture Velit,Home & Kitchen,Furniture,Nilkamal,3923.11,6120.0
+P1080,Nilkamal Furniture Fugiat,Home & Kitchen,Furniture,Nilkamal,8812.8,11540.0
+P1081,Prestige Furniture Voluptates,Home & Kitchen,Furniture,Prestige,297.93,430.0
+P1082,Bajaj Furniture Vero,Home & Kitchen,Furniture,Bajaj,14114.56,24900.0
+P1083,Milton Furniture Tenetur,Home & Kitchen,Furniture,Milton,7400.93,12750.0
+P1084,Nilkamal Furniture Aut,Home & Kitchen,Furniture,Nilkamal,16586.72,22050.0
+P1085,Nilkamal Decor Sequi,Home & Kitchen,Decor,Nilkamal,3048.64,4110.0
+P1086,Nilkamal Decor Tempora,Home & Kitchen,Decor,Nilkamal,11943.47,15370.0
+P1087,Bajaj Decor Dolores,Home & Kitchen,Decor,Bajaj,287.79,390.0
+P1088,Nilkamal Decor Quibusdam,Home & Kitchen,Decor,Nilkamal,13375.86,23310.0
+P1089,Milton Decor Exercitationem,Home & Kitchen,Decor,Milton,5101.33,6760.0
+P1090,Bajaj Decor Dolorem,Home & Kitchen,Decor,Bajaj,2489.96,4050.0
+P1091,Milton Decor Officiis,Home & Kitchen,Decor,Milton,10742.89,18000.0
+P1092,Bajaj Appliances Modi,Home & Kitchen,Appliances,Bajaj,9341.36,12320.0
+P1093,Prestige Appliances Fugit,Home & Kitchen,Appliances,Prestige,1612.08,2490.0
+P1094,Nilkamal Appliances Tempore,Home & Kitchen,Appliances,Nilkamal,808.47,1290.0
+P1095,Milton Appliances Voluptas,Home & Kitchen,Appliances,Milton,9764.0,16000.0
+P1096,Pigeon Appliances Quos,Home & Kitchen,Appliances,Pigeon,8999.35,13880.0
+P1097,Prestige Appliances Est,Home & Kitchen,Appliances,Prestige,2279.06,2970.0
+P1098,Milton Appliances Vitae,Home & Kitchen,Appliances,Milton,10187.07,13730.0
+P1099,Bajaj Storage Itaque,Home & Kitchen,Storage,Bajaj,2241.94,3870.0
+P1100,Nilkamal Storage Aspernatur,Home & Kitchen,Storage,Nilkamal,7065.0,9240.0
+P1101,Prestige Storage Eum,Home & Kitchen,Storage,Prestige,13456.16,22490.0
+P1102,Milton Storage Aliquid,Home & Kitchen,Storage,Milton,10568.73,16740.0
+P1103,Bajaj Storage Ipsam,Home & Kitchen,Storage,Bajaj,14239.92,22130.0
+P1104,Bajaj Storage Natus,Home & Kitchen,Storage,Bajaj,14335.37,18790.0
+P1105,Milton Storage Fugiat,Home & Kitchen,Storage,Milton,16760.77,21640.0
+P1106,Milton Storage At,Home & Kitchen,Storage,Milton,12258.76,22060.0
+P1107,Nilkamal Storage Error,Home & Kitchen,Storage,Nilkamal,12636.0,19600.0
+P1108,Mamaearth Skincare Reiciendis,Beauty & Personal Care,Skincare,Mamaearth,455.23,640.0
+P1109,L'Oreal Skincare Ipsam,Beauty & Personal Care,Skincare,L'Oreal,2294.75,3070.0
+P1110,Lakme Skincare Error,Beauty & Personal Care,Skincare,Lakme,593.77,780.0
+P1111,Mamaearth Skincare Ullam,Beauty & Personal Care,Skincare,Mamaearth,835.54,1140.0
+P1112,Lakme Skincare Praesentium,Beauty & Personal Care,Skincare,Lakme,603.55,860.0
+P1113,L'Oreal Skincare Nam,Beauty & Personal Care,Skincare,L'Oreal,913.54,1220.0
+P1114,Mamaearth Haircare Temporibus,Beauty & Personal Care,Haircare,Mamaearth,1463.59,2280.0
+P1115,Gillette Haircare Officia,Beauty & Personal Care,Haircare,Gillette,684.31,1230.0
+P1116,Mamaearth Haircare Dicta,Beauty & Personal Care,Haircare,Mamaearth,547.68,710.0
+P1117,Mamaearth Haircare Fuga,Beauty & Personal Care,Haircare,Mamaearth,158.06,230.0
+P1118,Mamaearth Haircare Deserunt,Beauty & Personal Care,Haircare,Mamaearth,1605.14,2580.0
+P1119,Gillette Haircare Expedita,Beauty & Personal Care,Haircare,Gillette,1989.26,3450.0
+P1120,Gillette Haircare Ratione,Beauty & Personal Care,Haircare,Gillette,420.16,750.0
+P1121,Nykaa Makeup Quidem,Beauty & Personal Care,Makeup,Nykaa,1375.38,1870.0
+P1122,Lakme Makeup Fuga,Beauty & Personal Care,Makeup,Lakme,758.57,1340.0
+P1123,Mamaearth Makeup Reprehenderit,Beauty & Personal Care,Makeup,Mamaearth,1559.73,2220.0
+P1124,Nykaa Makeup Nobis,Beauty & Personal Care,Makeup,Nykaa,1578.64,2550.0
+P1125,Mamaearth Makeup Reprehenderit,Beauty & Personal Care,Makeup,Mamaearth,1481.3,2370.0
+P1126,Mamaearth Makeup Natus,Beauty & Personal Care,Makeup,Mamaearth,1176.36,1980.0
+P1127,L'Oreal Makeup Magni,Beauty & Personal Care,Makeup,L'Oreal,1818.35,2400.0
+P1128,Gillette Makeup Est,Beauty & Personal Care,Makeup,Gillette,1306.1,2030.0
+P1129,Mamaearth Fragrances Deserunt,Beauty & Personal Care,Fragrances,Mamaearth,694.3,1070.0
+P1130,Gillette Fragrances Quaerat,Beauty & Personal Care,Fragrances,Gillette,1348.09,2160.0
+P1131,L'Oreal Fragrances Possimus,Beauty & Personal Care,Fragrances,L'Oreal,958.64,1600.0
+P1132,L'Oreal Fragrances Consectetur,Beauty & Personal Care,Fragrances,L'Oreal,2158.13,2800.0
+P1133,Lakme Fragrances Architecto,Beauty & Personal Care,Fragrances,Lakme,1439.73,2340.0
+P1134,Mamaearth Grooming Culpa,Beauty & Personal Care,Grooming,Mamaearth,322.96,420.0
+P1135,Lakme Grooming Dolor,Beauty & Personal Care,Grooming,Lakme,1437.98,2390.0
+P1136,Lakme Grooming Sunt,Beauty & Personal Care,Grooming,Lakme,336.38,600.0
+P1137,L'Oreal Grooming Dolore,Beauty & Personal Care,Grooming,L'Oreal,1584.32,2180.0
+P1138,L'Oreal Grooming Vero,Beauty & Personal Care,Grooming,L'Oreal,1049.22,1510.0
+P1139,Lakme Grooming Nisi,Beauty & Personal Care,Grooming,Lakme,1621.32,2540.0
+P1140,L'Oreal Grooming Saepe,Beauty & Personal Care,Grooming,L'Oreal,651.83,930.0
+P1141,Nykaa Grooming At,Beauty & Personal Care,Grooming,Nykaa,2340.93,3130.0
+P1142,Nykaa Grooming Molestiae,Beauty & Personal Care,Grooming,Nykaa,1650.92,2750.0
+P1143,Cosco Fitness Equipment Modi,Sports & Fitness,Fitness Equipment,Cosco,692.34,1140.0
+P1144,Decathlon Fitness Equipment Saepe,Sports & Fitness,Fitness Equipment,Decathlon,6131.62,8350.0
+P1145,Boldfit Fitness Equipment Omnis,Sports & Fitness,Fitness Equipment,Boldfit,12220.91,17790.0
+P1146,Cosco Fitness Equipment Quia,Sports & Fitness,Fitness Equipment,Cosco,7955.62,11120.0
+P1147,Boldfit Fitness Equipment Explicabo,Sports & Fitness,Fitness Equipment,Boldfit,5932.07,7820.0
+P1148,Cosco Fitness Equipment Quod,Sports & Fitness,Fitness Equipment,Cosco,11666.44,16180.0
+P1149,Cosco Fitness Equipment Accusamus,Sports & Fitness,Fitness Equipment,Cosco,5956.77,8240.0
+P1150,Adidas Fitness Equipment Vero,Sports & Fitness,Fitness Equipment,Adidas,9271.4,13840.0
+P1151,Nike Fitness Equipment Cum,Sports & Fitness,Fitness Equipment,Nike,2907.24,5120.0
+P1152,Nike Sportswear Vero,Sports & Fitness,Sportswear,Nike,3161.31,5070.0
+P1153,Boldfit Sportswear Quidem,Sports & Fitness,Sportswear,Boldfit,982.28,1680.0
+P1154,Cosco Sportswear Fugiat,Sports & Fitness,Sportswear,Cosco,8955.83,12570.0
+P1155,Decathlon Sportswear Temporibus,Sports & Fitness,Sportswear,Decathlon,4764.64,7610.0
+P1156,Cosco Sportswear Laboriosam,Sports & Fitness,Sportswear,Cosco,4559.47,7630.0
+P1157,Cosco Sportswear Culpa,Sports & Fitness,Sportswear,Cosco,5205.7,7160.0
+P1158,Decathlon Sportswear Impedit,Sports & Fitness,Sportswear,Decathlon,11225.3,15460.0
+P1159,Cosco Outdoor Gear Nostrum,Sports & Fitness,Outdoor Gear,Cosco,220.82,350.0
+P1160,Cosco Outdoor Gear Dolore,Sports & Fitness,Outdoor Gear,Cosco,11847.05,15400.0
+P1161,Cosco Outdoor Gear Odit,Sports & Fitness,Outdoor Gear,Cosco,7045.87,9800.0
+P1162,Boldfit Outdoor Gear A,Sports & Fitness,Outdoor Gear,Boldfit,10722.52,16190.0
+P1163,Adidas Outdoor Gear Fuga,Sports & Fitness,Outdoor Gear,Adidas,4447.84,7990.0
+P1164,Adidas Outdoor Gear Provident,Sports & Fitness,Outdoor Gear,Adidas,8890.9,12120.0
+P1165,Nike Outdoor Gear Dolorum,Sports & Fitness,Outdoor Gear,Nike,11551.87,15170.0
+P1166,Boldfit Outdoor Gear Quae,Sports & Fitness,Outdoor Gear,Boldfit,7381.12,9730.0
+P1167,Boldfit Cycling Corrupti,Sports & Fitness,Cycling,Boldfit,6843.08,12020.0
+P1168,Cosco Cycling Sunt,Sports & Fitness,Cycling,Cosco,1745.47,2660.0
+P1169,Decathlon Cycling In,Sports & Fitness,Cycling,Decathlon,3045.17,4870.0
+P1170,Cosco Cycling Tempore,Sports & Fitness,Cycling,Cosco,4386.75,6050.0
+P1171,Cosco Cycling Quae,Sports & Fitness,Cycling,Cosco,3989.95,5190.0
+P1172,Cosco Cycling Sequi,Sports & Fitness,Cycling,Cosco,2690.61,4730.0
+P1173,Decathlon Cycling Eius,Sports & Fitness,Cycling,Decathlon,7609.21,13540.0
+P1174,Adidas Cycling Dolor,Sports & Fitness,Cycling,Adidas,2393.26,4230.0
+P1175,Decathlon Cycling Minima,Sports & Fitness,Cycling,Decathlon,10481.12,13640.0
+P1176,Penguin Fiction Dolorem,Books,Fiction,Penguin,471.79,780.0
+P1177,Bloomsbury Fiction Quis,Books,Fiction,Bloomsbury,570.96,840.0
+P1178,HarperCollins Fiction Quia,Books,Fiction,HarperCollins,371.45,610.0
+P1179,Scholastic Fiction A,Books,Fiction,Scholastic,193.11,280.0
+P1180,Penguin Fiction Sapiente,Books,Fiction,Penguin,564.16,960.0
+P1181,Scholastic Fiction Iste,Books,Fiction,Scholastic,122.3,220.0
+P1182,Bloomsbury Non-Fiction Porro,Books,Non-Fiction,Bloomsbury,385.8,540.0
+P1183,Penguin Non-Fiction Ad,Books,Non-Fiction,Penguin,555.77,750.0
+P1184,HarperCollins Non-Fiction Culpa,Books,Non-Fiction,HarperCollins,152.81,210.0
+P1185,Penguin Non-Fiction Magni,Books,Non-Fiction,Penguin,666.56,980.0
+P1186,Penguin Non-Fiction Inventore,Books,Non-Fiction,Penguin,311.29,480.0
+P1187,Scholastic Non-Fiction Excepturi,Books,Non-Fiction,Scholastic,118.82,170.0
+P1188,Penguin Non-Fiction Aspernatur,Books,Non-Fiction,Penguin,761.31,1030.0
+P1189,Bloomsbury Academic Excepturi,Books,Academic,Bloomsbury,807.57,1160.0
+P1190,Bloomsbury Academic Reiciendis,Books,Academic,Bloomsbury,572.14,880.0
+P1191,Scholastic Academic Beatae,Books,Academic,Scholastic,593.98,780.0
+P1192,Bloomsbury Academic Blanditiis,Books,Academic,Bloomsbury,451.35,610.0
+P1193,Scholastic Academic Placeat,Books,Academic,Scholastic,272.91,450.0
+P1194,Scholastic Children's Books Atque,Books,Children's Books,Scholastic,648.51,1070.0
+P1195,Bloomsbury Children's Books Quibusdam,Books,Children's Books,Bloomsbury,513.69,730.0
+P1196,Scholastic Children's Books Debitis,Books,Children's Books,Scholastic,96.94,130.0
+P1197,HarperCollins Children's Books Debitis,Books,Children's Books,HarperCollins,404.23,640.0
+P1198,Scholastic Children's Books Unde,Books,Children's Books,Scholastic,353.66,470.0
+P1199,Penguin Comics Pariatur,Books,Comics,Penguin,397.94,670.0
+P1200,HarperCollins Comics Quo,Books,Comics,HarperCollins,589.51,890.0
+P1201,HarperCollins Comics Doloremque,Books,Comics,HarperCollins,600.76,860.0
+P1202,Bloomsbury Comics Fuga,Books,Comics,Bloomsbury,326.84,590.0
+P1203,Scholastic Comics Quia,Books,Comics,Scholastic,241.1,340.0
+P1204,Scholastic Comics Sequi,Books,Comics,Scholastic,526.95,830.0
+P1205,Scholastic Comics Nisi,Books,Comics,Scholastic,411.29,570.0
+P1206,Pampers Toys Error,Toys & Baby,Toys,Pampers,2394.14,3910.0
+P1207,Pampers Toys Quis,Toys & Baby,Toys,Pampers,987.94,1380.0
+P1208,Pampers Toys Voluptas,Toys & Baby,Toys,Pampers,531.87,790.0
+P1209,Hot Wheels Toys Eligendi,Toys & Baby,Toys,Hot Wheels,842.26,1170.0
+P1210,Pampers Toys Ipsa,Toys & Baby,Toys,Pampers,3121.72,4030.0
+P1211,LEGO Toys Natus,Toys & Baby,Toys,LEGO,2590.23,3340.0
+P1212,Hot Wheels Toys Velit,Toys & Baby,Toys,Hot Wheels,1095.09,1730.0
+P1213,Fisher-Price Baby Care Totam,Toys & Baby,Baby Care,Fisher-Price,2281.71,3940.0
+P1214,Fisher-Price Baby Care Minima,Toys & Baby,Baby Care,Fisher-Price,3630.18,5360.0
+P1215,Hot Wheels Baby Care Nulla,Toys & Baby,Baby Care,Hot Wheels,2574.39,3560.0
+P1216,Fisher-Price Baby Care Quas,Toys & Baby,Baby Care,Fisher-Price,3287.41,4820.0
+P1217,Chicco Baby Care Odio,Toys & Baby,Baby Care,Chicco,1702.86,2710.0
+P1218,Fisher-Price Baby Care Cumque,Toys & Baby,Baby Care,Fisher-Price,1122.29,1500.0
+P1219,Fisher-Price Baby Care Expedita,Toys & Baby,Baby Care,Fisher-Price,2921.84,4550.0
+P1220,LEGO Diapers Et,Toys & Baby,Diapers,LEGO,1979.4,3520.0
+P1221,Hot Wheels Diapers At,Toys & Baby,Diapers,Hot Wheels,3449.66,4490.0
+P1222,Fisher-Price Diapers Labore,Toys & Baby,Diapers,Fisher-Price,3157.52,5470.0
+P1223,Chicco Diapers Adipisci,Toys & Baby,Diapers,Chicco,2481.04,3390.0
+P1224,Hot Wheels Diapers Repudiandae,Toys & Baby,Diapers,Hot Wheels,2741.19,4300.0
+P1225,Pampers Baby Gear Quod,Toys & Baby,Baby Gear,Pampers,3694.11,4750.0
+P1226,Pampers Baby Gear Eum,Toys & Baby,Baby Gear,Pampers,1798.69,3190.0
+P1227,Fisher-Price Baby Gear Repudiandae,Toys & Baby,Baby Gear,Fisher-Price,3120.47,5220.0
+P1228,Hot Wheels Baby Gear Est,Toys & Baby,Baby Gear,Hot Wheels,892.82,1570.0
+P1229,Hot Wheels Baby Gear Ab,Toys & Baby,Baby Gear,Hot Wheels,612.65,1080.0
+P1230,Fisher-Price Baby Gear Aut,Toys & Baby,Baby Gear,Fisher-Price,1650.93,2330.0
+P1231,Chicco Baby Gear Voluptatum,Toys & Baby,Baby Gear,Chicco,1031.54,1710.0
+P1232,Pampers Baby Gear Suscipit,Toys & Baby,Baby Gear,Pampers,2558.81,3910.0
+P1233,ITC Staples Assumenda,Groceries,Staples,ITC,825.58,1190.0
+P1234,Amul Staples Eum,Groceries,Staples,Amul,438.91,650.0
+P1235,Amul Staples Atque,Groceries,Staples,Amul,1013.97,1370.0
+P1236,Tata Staples Aliquid,Groceries,Staples,Tata,87.88,120.0
+P1237,Patanjali Staples Iure,Groceries,Staples,Patanjali,769.44,1130.0
+P1238,ITC Staples Aut,Groceries,Staples,ITC,440.73,670.0
+P1239,Nestle Snacks Quam,Groceries,Snacks,Nestle,944.45,1420.0
+P1240,Nestle Snacks Ex,Groceries,Snacks,Nestle,460.66,670.0
+P1241,Nestle Snacks Hic,Groceries,Snacks,Nestle,764.63,1110.0
+P1242,Tata Snacks Velit,Groceries,Snacks,Tata,123.4,160.0
+P1243,Patanjali Snacks Placeat,Groceries,Snacks,Patanjali,493.75,890.0
+P1244,ITC Snacks Error,Groceries,Snacks,ITC,638.45,880.0
+P1245,Amul Snacks Quis,Groceries,Snacks,Amul,503.89,720.0
+P1246,Amul Beverages Delectus,Groceries,Beverages,Amul,975.38,1500.0
+P1247,Nestle Beverages Rem,Groceries,Beverages,Nestle,954.25,1450.0
+P1248,Nestle Beverages Repellat,Groceries,Beverages,Nestle,366.15,520.0
+P1249,Amul Beverages Pariatur,Groceries,Beverages,Amul,361.87,510.0
+P1250,ITC Beverages Exercitationem,Groceries,Beverages,ITC,642.1,1000.0
+P1251,Patanjali Beverages Pariatur,Groceries,Beverages,Patanjali,45.62,80.0
+P1252,ITC Beverages Nemo,Groceries,Beverages,ITC,386.57,500.0
+P1253,Patanjali Personal Hygiene Eaque,Groceries,Personal Hygiene,Patanjali,682.33,1240.0
+P1254,Patanjali Personal Hygiene Consequatur,Groceries,Personal Hygiene,Patanjali,399.35,710.0
+P1255,Patanjali Personal Hygiene Consequatur,Groceries,Personal Hygiene,Patanjali,405.43,560.0
+P1256,Nestle Personal Hygiene Unde,Groceries,Personal Hygiene,Nestle,686.34,1150.0
+P1257,Patanjali Personal Hygiene Non,Groceries,Personal Hygiene,Patanjali,135.57,220.0
+P1258,Nestle Personal Hygiene Libero,Groceries,Personal Hygiene,Nestle,162.5,210.0
+P1259,Patanjali Personal Hygiene Nisi,Groceries,Personal Hygiene,Patanjali,855.9,1200.0
+P1260,ITC Personal Hygiene Neque,Groceries,Personal Hygiene,ITC,568.69,840.0
+P1261,Amul Dairy Omnis,Groceries,Dairy,Amul,1132.36,1490.0
+P1262,Nestle Dairy Asperiores,Groceries,Dairy,Nestle,992.54,1420.0
+P1263,Amul Dairy Veniam,Groceries,Dairy,Amul,543.26,760.0
+P1264,Patanjali Dairy Ullam,Groceries,Dairy,Patanjali,690.75,1070.0
+P1265,Nestle Dairy Tenetur,Groceries,Dairy,Nestle,890.91,1470.0
