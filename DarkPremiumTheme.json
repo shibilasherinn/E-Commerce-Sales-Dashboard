@@ -1,0 +1,62 @@
+{
+  "name": "Dark & Premium",
+  "dataColors": [
+    "#D4AF37",
+    "#2EC4B6",
+    "#E8C547",
+    "#5C9EAD",
+    "#B08D2B",
+    "#8FD4CB",
+    "#9C7A1E",
+    "#3E6E78"
+  ],
+  "background": "#121212",
+  "foreground": "#F5F5F5",
+  "tableAccent": "#D4AF37",
+  "good": "#2EC4B6",
+  "bad": "#C0392B",
+  "neutral": "#B08D2B",
+  "maximum": "#D4AF37",
+  "center": "#5C9EAD",
+  "minimum": "#1E1E1E",
+  "null": "#333333",
+  "visualStyles": {
+    "page": {
+      "*": {
+        "*": [
+          {
+            "background": { "color": { "solid": { "color": "#121212" } }, "transparency": 0 },
+            "wallpaper": { "color": { "solid": { "color": "#121212" } } }
+          }
+        ]
+      }
+    },
+    "card": {
+      "*": {
+        "*": [
+          {
+            "labels": { "color": { "solid": { "color": "#D4AF37" } }, "fontSize": 28 },
+            "categoryLabels": { "color": { "solid": { "color": "#F5F5F5" } }, "fontSize": 12 }
+          }
+        ]
+      }
+    }
+  },
+  "textClasses": {
+    "title": {
+      "fontFace": "Segoe UI Semibold",
+      "color": "#F5F5F5",
+      "fontSize": 14
+    },
+    "header": {
+      "fontFace": "Segoe UI",
+      "color": "#D4AF37",
+      "fontSize": 12
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "color": "#F5F5F5",
+      "fontSize": 10
+    }
+  }
+}
